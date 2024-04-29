@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876830797762",
+    "project_id": "ocrtextextractor-ce1ef",
+    "storage_bucket": "ocrtextextractor-ce1ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876830797762:android:fcfd7aa11591dac897f05b",
+        "android_client_info": {
+          "package_name": "com.example.ocrupdate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXc7BdRFXhGjeTL7Mm9gxwAKK1p88YW14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

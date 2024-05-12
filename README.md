@@ -18,12 +18,12 @@ Then the user can provide an input image either from their gallery or take a pho
 <img align="center" alt="image selection page" src="readme-images/image_selection_page.jpg"></img>
 
 The application then makes a **POST request** to the backend which takes the image, pre-processes it, and feeds it into our machine learning model.
-Answer Sheet Mark Recognition and Attendance calculation are performed via a backend that uses a custom model created by us; Optical Character Recognition is performed using google's off-the-shelf model.  
+Answer Sheet Mark Recognition and Attendance calculation are performed via a backend that uses a custom model created by us; Optical Character Recognition is performed using google's off-the-shelf model.
 
-Example Inputs to the Marksheet evaluation and Attendance calculation:  
+Example Inputs to the Marksheet evaluation and Attendance calculation:
 
 <img style="float: left" width="45%" alt="marksheet evaluation input" src="readme-images/input_marksheet.jpg"></img>
-<img style="float: right" width="45%" alt="attendance calculation input" src="readme-images/input_attendance.jpg"></img>  
+<img style="float: right" width="45%" alt="attendance calculation input" src="readme-images/input_attendance.jpg"></img>
 
 Outputs for the above:
 
@@ -31,4 +31,4 @@ Outputs for the above:
 <img style="float: right" width="45%" alt="attendance calculation output" src="readme-images/output_attendance.png"></img>
 
 
-Learn more about how the backend ML model works from [its github repo](https://github.com/Pranavcm-07/ocr-ml-model)
+Go to the [backend directory](backend/) to learn more about the ML model's implementation

@@ -1,4 +1,6 @@
-# Attendance and Test Marks Recognition
+# Zenith Hackathon 2024 (Team: HunterTech)
+
+## Attendance and Test Marks Recognition
 
 A flutter app that can recognize specific tabular data like attendance records and answer sheet marks from an image and process them to be stored as digital data
 

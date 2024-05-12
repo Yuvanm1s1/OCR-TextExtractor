@@ -27,22 +27,22 @@ This project combines Optical Character Recognition (OCR) with machine learning 
 ## Screenshots
 
 <div style="display:flex">
-  <img src="/images/image1.jpeg" alt="Screenshot 1" style="width:33%">
-  <img src="/images/image2.jpeg" alt="Screenshot 2" style="width:33%">
-  <img src="/images/image3.jpeg" alt="Screenshot 3" style="width:33%">
+  <img src="images/image1.jpeg" alt="Screenshot 1" style="width:33%">
+  <img src="images/image2.jpeg" alt="Screenshot 2" style="width:33%">
+  <img src="images/image3.jpeg" alt="Screenshot 3" style="width:33%">
 </div>
 <div style="display:flex">
-  <img src="/images/image4.jpeg" alt="Screenshot 1" style="width:33%">
-  <img src="/images/image5.jpeg" alt="Screenshot 2" style="width:33%">
-  <img src="/images/image6.jpeg" alt="Screenshot 3" style="width:33%">
+  <img src="images/image4.jpeg" alt="Screenshot 1" style="width:33%">
+  <img src="images/image5.jpeg" alt="Screenshot 2" style="width:33%">
+  <img src="images/image6.jpeg" alt="Screenshot 3" style="width:33%">
 </div>
 <div style="display:flex">
-  <img src="/images/image7.jpeg" alt="Screenshot 1" style="width:33%">
-  <img src="/images/image8.jpeg" alt="Screenshot 2" style="width:33%">
-  <img src="/images/marksheet.jpeg" alt="Screenshot 3" style="width:33%">
+  <img src="images/image7.jpeg" alt="Screenshot 1" style="width:33%">
+  <img src="images/image8.jpeg" alt="Screenshot 2" style="width:33%">
+  <img src="images/marksheet.jpeg" alt="Screenshot 3" style="width:33%">
 </div>
 <div style="display:flex">
-  <img src="/images/yuvan1.png" alt="Screenshot 1" style="width:33%">
+  <img src="images/yuvan1.png" alt="Screenshot 1" style="width:33%">
 </div>
 
 ## Key Features

@@ -30,5 +30,25 @@ Outputs for the above:
 <img style="float: left" width="45%" alt="marksheet evaluation output" src="readme-images/output_mark_evaluation.png"></img>
 <img style="float: right" width="45%" alt="attendance calculation output" src="readme-images/output_attendance.png"></img>
 
+## Screenshots
 
-Go to the [backend directory](backend/) to learn more about the ML model's implementation
+<div style="display:flex">
+  <img src="backend/images/image1.jpeg" alt="Screenshot 1" style="width:33%">
+  <img src="backend/images/image2.jpeg" alt="Screenshot 2" style="width:33%">
+  <img src="backend/images/image3.jpeg" alt="Screenshot 3" style="width:33%">
+</div>
+<div style="display:flex">
+  <img src="backend/images/image4.jpeg" alt="Screenshot 1" style="width:33%">
+  <img src="backend/images/image5.jpeg" alt="Screenshot 2" style="width:33%">
+  <img src="backend/images/image6.jpeg" alt="Screenshot 3" style="width:33%">
+</div>
+<div style="display:flex">
+  <img src="backend/images/image7.jpeg" alt="Screenshot 1" style="width:33%">
+  <img src="backend/images/image8.jpeg" alt="Screenshot 2" style="width:33%">
+  <img src="backend/images/marksheet.jpeg" alt="Screenshot 3" style="width:33%">
+</div>
+<div style="display:flex">
+  <img src="backend/images/yuvan1.png" alt="Screenshot 1" style="width:33%">
+</div>
+
+### Go to the [backend directory](backend/) to learn more about the ML model's implementation

@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:ocrupdate/pages/attendance_page.dart';
+import 'package:ocrupdate/pages/mark_page.dart';
 
 import 'homepage.dart';
 
@@ -21,7 +23,7 @@ class MainPage extends StatelessWidget {
           onTap: () {
       Navigator.push(
       context,
-      MaterialPageRoute(builder: (context) => HomePage()),
+      MaterialPageRoute(builder: (context) => MarkPage()),
       );
       },
           child: Container(
@@ -70,7 +72,7 @@ class MainPage extends StatelessWidget {
               onTap: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => HomePage()),
+                  MaterialPageRoute(builder: (context) => AttendancePage()),
                 );
               },
               child: Container(
